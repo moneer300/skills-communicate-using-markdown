@@ -15,3 +15,7 @@ var myVar = "Hello, world!";
 
 I have added codes!
 ----------------------------------
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
